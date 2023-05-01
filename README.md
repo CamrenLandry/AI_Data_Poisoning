@@ -14,6 +14,9 @@ https://www.kaggle.com/datasets/camrenlandry/poisoned-data-signature3
 # Kaggle Link for signatures
 https://www.kaggle.com/datasets/camrenlandry/signatures
 
+#Link to slides
+https://docs.google.com/presentation/d/1zIXKNpoeAlrAWDwtJpIA6MqaUxHKqIOmxcnSF5gFGCI/edit#slide=id.g1b16c18d105_0_0
+
 
 
 # How to run
